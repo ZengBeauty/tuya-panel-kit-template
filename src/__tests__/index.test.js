@@ -1,3 +1,6 @@
+/**
+ * @jest-environment jsdom
+ */
 import 'react-native';
 import React from 'react';
 import { mount } from 'enzyme';
